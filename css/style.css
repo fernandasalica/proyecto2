@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.login form input {
+    display: block;
+    padding: 10px;
+    border: 1px solid #33485F;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.btn-container button {
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #faee9e;
+    background-color: ;
+    cursor: pointer;
+    font-weight:600;
+}
+
+.background {
+    background: url('../img/fondo-login.png') no-repeat center center/cover;
+    padding: 0;
+    max-width: 100vw;
+}
+
+.margin {
+    padding: 15px;
+}
+
+.titulo-tabla {
+    display: flex;
+    justify-content: center;
+}
+
+.color-icono {
+    color: black;
+    padding: 5px;
+}
+
+.color-fondo {
+    background-color: #faee9e;
+}
+
+
+
